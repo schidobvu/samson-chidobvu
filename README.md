@@ -11,6 +11,7 @@
 - 📄 Know about my experiences [https://samson-chidobvu.web.app/](https://samson-chidobvu.web.app/)
 
 - ⚡ Fun fact **I love errors 😂**
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
