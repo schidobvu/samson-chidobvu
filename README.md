@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samson Chidobvu</h1>
-<h3 align="center">A a highly skilled and creative software developer who owns a Bachelor of Science in Business Information Technology. Having a passion for solving complex problems and providing workable solutions, I have built a number high performance and quality web and mobile apps as a freelancer & intern for over 2 years.</h3>
+<h1>Hi 👋, I'm Samson Chidobvu</h1>
 
 - 🔭 I’m currently working on [PaMsika web-app](https://github.com/schidobvu/Dzuka-Shopping-System)
 
