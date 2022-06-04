@@ -1,16 +1,11 @@
-<h1>Hi 👋, I'm Samson Chidobvu</h1>
+<h1>Hi 👋, I'm Sam.</h1>
 
-- 🔭 I’m currently working on [PaMsika web-app](https://github.com/schidobvu/Dzuka-Shopping-System)
+- 🔭 Currently am working on [PaMsika web-app](https://github.com/schidobvu/Dzuka-Shopping-System)
 
-- 👨‍💻 All of my projects are available at [https://samson-chidobvu.web.app/](https://samson-chidobvu.web.app/)
+- 📫 Contact me at **samsonchidobvu@gmail.com**
 
-- 💬 Ask me about **react,react-native,vue, laravel,**
+- 📄 Check my portfolio at [https://samson-chidobvu.web.app/](https://samson-chidobvu.web.app/)
 
-- 📫 How to reach me **samsonchidobvu@gmail.com**
-
-- 📄 Know about my experiences [https://samson-chidobvu.web.app/](https://samson-chidobvu.web.app/)
-
-- ⚡ Fun fact **I love errors 😂**
 <br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
