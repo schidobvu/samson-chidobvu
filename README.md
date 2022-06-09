@@ -5,8 +5,6 @@
 - 📫 Contact me at **samsonchidobvu@gmail.com**
 
 - 📄 Check my portfolio at [https://samson-chidobvu.web.app/](https://samson-chidobvu.web.app/)
-
-<br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samson-chidobvu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samson-chidobvu" height="30" width="40" /></a>
