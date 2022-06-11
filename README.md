@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Sam.</h1>
 
-- 📫 Email: **samsonchidobvu@gmail.com**
+- 📫 Send me an email at **samsonchidobvu@gmail.com**
 
 <!-- - 📄 Portfolio: [https://samson-chidobvu.web.app/](https://samson-chidobvu.web.app/) -->
 <h3 align="left">Languages and Tools:</h3>
