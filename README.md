@@ -1,8 +1,8 @@
 <h1>Hi 👋, I'm Sam.</h1>
 
-[comment]:- 📫 Email: **samsonchidobvu@gmail.com**
+- 📫 Email: **samsonchidobvu@gmail.com**
 
-- 📄 Portfolio: [https://samson-chidobvu.web.app/](https://samson-chidobvu.web.app/)
+<!-- - 📄 Portfolio: [https://samson-chidobvu.web.app/](https://samson-chidobvu.web.app/) -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samson-chidobvu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samson-chidobvu" height="30" width="40" /></a>
