@@ -2,7 +2,7 @@
 
 - 📫 Contact Me : **samsonchidobvu@gmail.com**
 - <a href="https://samson-chidobvu.web.app/" target="_blank" rel="noreferrer">🔗 Portfolio Website</a>
-- <p> View all my previos works through my portfolio website link above
+<p> View all my previos works through my portfolio website link above
 
 <!-- - 📄 Portfolio: [https://samson-chidobvu.web.app/](https://samson-chidobvu.web.app/) -->
 <h3 align="left">Languages and Tools:</h3>
