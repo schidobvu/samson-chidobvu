@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Sam.</h1>
 
 - 📫 Contact Me : **samsonchidobvu@gmail.com**
-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">🔗 Portfolio Website</a>
+- <a href="https://samson-chidobvu.web.app/" target="_blank" rel="noreferrer">🔗 Portfolio Website</a>
 
 <!-- - 📄 Portfolio: [https://samson-chidobvu.web.app/](https://samson-chidobvu.web.app/) -->
 <h3 align="left">Languages and Tools:</h3>
